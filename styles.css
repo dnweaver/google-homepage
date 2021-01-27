@@ -1,0 +1,51 @@
+.center {
+    padding-top: 109px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    border: 1px outset;
+    font-family: arial,sans-serif;
+    margin: 11px 8px;
+    padding: 0 16px;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    border: 1px outset;
+    font-family: arial,sans-serif;
+    margin: 11px 8px;
+    padding: 0 17px;
+}
+
+.search {
+    border: 1px;
+    padding-top: 1px;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    text-align: center;
+    padding: 0px 10px
+}
+
+footer {
+    position: fixed;
+    bottom: 10px;
+    width: 97%;
+}
